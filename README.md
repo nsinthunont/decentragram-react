@@ -6,7 +6,7 @@ This inspired by [DAPP University](https://github.com/dappuniversity/decentragra
 
 To begin, create a react app
 
-#### `npx create-react-app [name]`
+#### npx create-react-app [name]
 
 Next, all the required blockchain dependancies need to be installed
 
