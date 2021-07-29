@@ -12,9 +12,12 @@ Next, all the required blockchain dependancies need to be installed
 
 `npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers web3modal @openzeppelin/contracts ipfs-http-client axios tailwindcss`
 
-We will also need to install all the TailwindCSS dependancies as well and then initialize Tailwind
+We will also need to install all the TailwindCSS dependancies
 
 `npm install -D tailwindcss@latest postcss@latest autoprefixer@latest`
+
+And then initialize
+
 `npx tailwindcss init -p`
 
 Finally, we find the src/index.css file and we delete everything and replace with:
