@@ -4,7 +4,7 @@ This inspired by [DAPP University](https://github.com/dappuniversity/decentragra
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run::
 
 ### `yarn start`
 
