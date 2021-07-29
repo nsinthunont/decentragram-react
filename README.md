@@ -27,3 +27,11 @@ Finally, we find the src/index.css file and we delete everything and replace wit
 @tailwind components;
 @tailwind utilities;
 ```
+
+## Hardhat
+
+In order to develop on the Blockchain, we need the Hardhdat development environment which can be initialize using:
+
+'npx hardhat'
+
+More details on how to configure Hardhat config files can be found in a blog post created by Nader Dabit [here](https://dev.to/dabit3/building-scalable-full-stack-apps-on-ethereum-with-polygon-2cfb)
