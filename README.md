@@ -6,10 +6,10 @@ This inspired by [DAPP University](https://github.com/dappuniversity/decentragra
 
 To begin, create a react app
 
-### `npx create-react-app [name]`
+#### `npx create-react-app [name]`
 
 Next, all the required dependancies need to be installed
 
-### `npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers web3modal @openzeppelin/contracts ipfs-http-client axios`
+#### `npm install ethers hardhat @nomiclabs/hardhat-waffle ethereum-waffle chai @nomiclabs/hardhat-ethers web3modal @openzeppelin/contracts ipfs-http-client axios`
 
 
