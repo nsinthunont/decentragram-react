@@ -1,10 +1,27 @@
 import React from 'react';
+import './Home.css'
 
 const Home = () => (
     <div className='home'>
-        <h1>Welcome to my portfolio website</h1>
-        <p> Feel free to browse around and learn more about me.</p>
-    </div>
+        <div className='wrapper'>
+
+            <div className="bg-red w-full">
+                <div> // media
+
+                </div>
+                <div> // meta
+
+                </div>
+                <div> // message
+
+                </div>
+                <div> // engagements
+
+                </div>
+            </div>
+
+        </div>
+    </div>    
 );
 
 export default Home;
