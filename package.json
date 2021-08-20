@@ -12,6 +12,8 @@
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.1",
     "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
     "ethereum-waffle": "^3.4.0",
     "ethers": "^5.4.2",
     "hardhat": "^2.5.0",
